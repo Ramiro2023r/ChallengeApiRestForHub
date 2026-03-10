@@ -85,8 +85,22 @@ Con el proyecto corriendo, accede a:
 ```
 http://localhost:8080/swagger-ui.html
 ```
+Imagenes de el funcionamiento 
+<img width="669" height="275" alt="image" src="https://github.com/user-attachments/assets/205a9d83-5ce8-450d-ba23-549fae81a524" />
+<img width="432" height="111" alt="image" src="https://github.com/user-attachments/assets/291042e1-8c47-4501-9b28-e9ea6ba6c0ba" />
+<img width="1281" height="173" alt="image" src="https://github.com/user-attachments/assets/00eb1463-baf8-4068-90a4-d84ee818a7fd" />
+
+enpoints
+<img width="1339" height="238" alt="image" src="https://github.com/user-attachments/assets/6374ec6a-101c-44fc-bf98-822803c41e9a" />
+<img width="1323" height="334" alt="image" src="https://github.com/user-attachments/assets/2e30b3ce-283c-4792-bf2a-6c17e181869d" />
+<img width="1341" height="348" alt="image" src="https://github.com/user-attachments/assets/c633ea7a-2791-44a7-96a3-496c2c370f30" />
+
+
+
+
+
 
 ---
 
 ## 👨‍💻 Autor
-Tu Nombre — [LinkedIn](https://linkedin.com) — [GitHub](https://github.com)
+L9TDeveloper — [LinkedIn](www.linkedin.com/in/ramiro-huaman-acosta) — [GitHub](https://github.com/Ramiro2023r)
