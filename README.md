@@ -85,7 +85,9 @@ Con el proyecto corriendo, accede a:
 ```
 http://localhost:8080/swagger-ui.html
 ```
-Imagenes de el funcionamiento 
+                                                   Imagenes de el funcionamiento 
+
+
 <img width="669" height="275" alt="image" src="https://github.com/user-attachments/assets/205a9d83-5ce8-450d-ba23-549fae81a524" />
 <img width="432" height="111" alt="image" src="https://github.com/user-attachments/assets/291042e1-8c47-4501-9b28-e9ea6ba6c0ba" />
 <img width="1281" height="173" alt="image" src="https://github.com/user-attachments/assets/00eb1463-baf8-4068-90a4-d84ee818a7fd" />
