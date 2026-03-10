@@ -97,10 +97,21 @@ enpoints
 <img width="1323" height="334" alt="image" src="https://github.com/user-attachments/assets/2e30b3ce-283c-4792-bf2a-6c17e181869d" />
 <img width="1341" height="348" alt="image" src="https://github.com/user-attachments/assets/c633ea7a-2791-44a7-96a3-496c2c370f30" />
 
+<img width="524" height="40" alt="image" src="https://github.com/user-attachments/assets/11104253-6e50-432f-89a9-d1f8f77803d4" />
+<img width="946" height="482" alt="image" src="https://github.com/user-attachments/assets/84735048-96a4-41c7-9e6d-8ef14ed89d5e" />
+<img width="945" height="31" alt="image" src="https://github.com/user-attachments/assets/9e44bd7c-ad28-4fc8-a7f8-edae88bb4ffd" />
+<img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/ff6042a2-25d5-4918-8921-b19bf8d5b9d9" />
+<img width="934" height="146" alt="image" src="https://github.com/user-attachments/assets/5c6459e1-2da2-4bd6-8a76-e55dd460b7eb" />
+
+Base de datos MYSQL 
+
+<img width="401" height="172" alt="image" src="https://github.com/user-attachments/assets/cabf4702-4407-4006-a16b-dad4776380ce" />
+<img width="1911" height="867" alt="image" src="https://github.com/user-attachments/assets/b09dee98-2ad3-4cb2-a255-50b157a61d7c" />
+
+IDE
 
 
-
-
+<img width="1860" height="968" alt="image" src="https://github.com/user-attachments/assets/43e97c04-7c42-4dff-89a7-7df17adc94ed" />
 
 ---
 
